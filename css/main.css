@@ -57,7 +57,7 @@ box-shadow:0 3px 9px 3px rgba(0, 0, 0, 0.1);
 
 /* ---- Hero ---- */
 #hero {
-    background: url(/images/banner-img-1.jpg) top/cover;
+    background: url(../images/banner-img-1.jpg) top/cover;
 }
 .carousel-inner h1 {
     font-size: 60px;
